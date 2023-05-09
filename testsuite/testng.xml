@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="UWPortalSuite" time-out = "900000000">
+<listeners>
+   <listener class-name="Utilities.Listeners"></listener>
+  </listeners> 
+  
+ <test name="UWPortalTest">
+    <classes>
+       <class name="Testcases.RulesManagement">
+   <methods>
+   
+     <include name="tc1_creationOfBusinessRuleForReferral"></include> 
+     <include name="tc2_editOfBusinessRuleForReferral"></include>
+     <include name="tc3_deleteOfBusinessRuleForReferral"></include>  
+     <include name="tc4_creationOfBusinessRuleForKnowledgelink"></include> 
+     <include name="tc5_editOfBusinessRuleForKnowledgeLink"></include>
+     <include name="tc6_deleteOfBusinessRuleForKnowledgeLink"></include> 
+     <include name="tc7_creationOfBusinessRuleForRiskAppetite"></include>
+     <include name="tc8_editOfBusinessRuleForRiskAppetite"></include>  
+     <include name="tc9_deleteOfBusinessRuleRiskAppetite"></include> 
+     <include name="tc10_bulkUploadBusinessRules"></include> 
+     <include name="tc11_bulkUploadBusinessRulesOnInvalidData"></include>
+   
+   </methods>
+    </class> 
+       
+  <!--   <class name="Testcases.ActiveSubmission">    
+     <methods>   
+     <include name="tc1_verifyUserCompletesSubmissionForAllLoBs"></include>
+     </methods>
+     </class> 
+     
+     <class name="Testcases.UWNotes">    
+     <methods>   
+     <include name="validateAddingUWNotes"></include>
+     <include name="validateClearingUWNotes"></include>
+     <include name="validateDeleteUWNotes"></include>
+     <include name="validateCancelDeleteUWNotes"></include>    
+     </methods>
+     </class> -->
+       
+     </classes> 
+     </test>  
+     
+  <test name="APITests"> 
+  <classes>
+ <!--    <class name="cucumberOptions.TestNGTestRunner"></class>  -->
+  </classes>    
+   </test>         
+
+</suite> <!-- UWPortalSuite -->

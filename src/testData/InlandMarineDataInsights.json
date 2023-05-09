@@ -1,0 +1,114 @@
+[
+{
+    "Cohort": "0",
+    "attributes": {
+        "Application_ID": "APP202212070005\n",
+        "no_of_submissions ": 209,
+        "Rank": 1,
+        "Cluster_Name": "Large Business",
+        "Number of Employees": {
+            "Company_value": "16",
+            "Average number of employees": 30,
+            "Min number of employees ": 7,
+            "Max number of employees": 545
+        },
+        "Number of Locations": {
+            "Company_value": "1",
+            "Average number of locations": 1,
+            "Min number of locations": 0,
+            "Max number of locations": 1
+        },
+        "Years in Business": {
+            "Company_value": "5",
+            "Average years in business": 0,
+            "Min years in business": 0,
+            "Max years in business": 0
+        },
+        "Credit Rating": {
+            "Company_value": 0,
+            "Average Credit Rating": "",
+            "Min Credit Rating": "5A",
+            "Max Credit Rating": "DS"
+        },
+        "Profitability": {
+            "Company_value": 0,
+            "Average Profitability": 205797500,
+            "Min Profitability": 0,
+            "Max Profitability": 411595000
+        },
+        "Total Sales Revenue": {
+            "Company_value": 0,
+            "Average total sales revenue": 14451539033,
+            "Min total sales revenue": 132707,
+            "Max total sales revenue": 24634000000
+        },
+        "Total Claims": {
+            "Company_value": "7",
+            "Average Claims": 5,
+            "Min Claims": 2,
+            "Max": 9
+        },
+        "Total Losses": {
+            "Company_value": "75866",
+            "Average Losses": 230562,
+            "Min Losses": 0,
+            "Max Losses": 657234
+        },
+        "Litigation expenses": {
+            "Company_value": "0",
+            "Average Litigation expenses ": 57998,
+            "Min Litigation expenses": 0,
+            "Max Litigation expenses": 269190
+        },
+        "OSHA Violation": {
+            "Company_value": "",
+            "Average OSHA Violation": 0,
+            "Min OSHA Violation": 0,
+            "Max OSHA Violation": 0
+        },
+        "Limit": {
+            "Company_value": "0",
+            "Average Limit": 218507,
+            "Min Limit": 0,
+            "Max Limit": 499000
+        },
+        "Deductible": {
+            "Company_value": 1100,
+            "Average Deductible": 5607,
+            "Min Deductible": 1000,
+            "Max Deductible": 9900
+        },
+        "Total Insured Value (TIV)": {
+            "Company_value": "305000",
+            "Averag TIVe": 362157,
+            "Min TIV": 205000,
+            "Max TIV": 499000
+        },
+        "Average Operator Age": {
+            "Company_value": "38",
+            "Average operator age": 43,
+            "Min operator age": 35,
+            "Max operator age": 51
+        },
+        "Number of Power Units": {
+            "Company_value": 6,
+            "Average power units": 5,
+            "Min power units": 5,
+            "Max power units": 10
+        }
+    }
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+]
